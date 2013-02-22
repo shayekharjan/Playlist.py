@@ -14,7 +14,7 @@ http://www.youtube.com/watch?v=bvRXQTyBezk
 
 2.) Run It!
 
-$$python Playlist.py -p <path of Playlist.txt file>
+$$python Playlist.py -p [path of Playlist.txt file]
 
 
 
