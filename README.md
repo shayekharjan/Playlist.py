@@ -10,10 +10,6 @@ Usage
 
 1.) Create a ***Playlist.txt*** file in a directory of your choosing, and fill it up with youtube urls. 
 
-Playlist.txt 
-http://www.youtube.com/watch?v=co5gy_2uOEY
-http://www.youtube.com/watch?v=bvRXQTyBezk
-
 2.) Run It!
 
 	$$python Playlist.py -p [path of Playlist.txt file]
